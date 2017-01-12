@@ -8,6 +8,15 @@ We've heard the term IPv6 here and there, but what is it? Every device that conn
 2dde:1235:1256:3:200:f8ed:fe23:59cf
 </pre>
 
+<b> Need For IPv6</b>
+
+<p>Most people think that IPv4 address depletion is the main problem which has driven us to invent IPv6. This is not exactly the reason, since IPv4 depletion is been overcome by using classless IP addresses & afterward by using NAT. Lets now see more reasons for the need of IPv6:<br>
+1. Encryption<br>
+2. Authentication<br>
+3. Realtime Audio/Video transmissions<br>
+4. Fast Processing<br>
+</p>
+
 ## Exercise
 
 Check ifconfig to see if you have an IPv6 address listed.
